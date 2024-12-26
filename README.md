@@ -59,7 +59,7 @@ When a user submits a natural language query, the application takes the input an
 ```commandline
 git clone https://github.com/abinthomasonline/clip-faiss.git
 ```
-2. Install the required packages
+2. Install the required packages (conda python3.8 tested.)
 ```commandline
 pip install -r requirements.txt
 ```

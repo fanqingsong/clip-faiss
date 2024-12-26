@@ -2,7 +2,7 @@ blinker==1.6.2
 certifi==2022.12.7
 charset-normalizer==2.1.1
 click==8.1.5
-clip @ git+https://github.com/openai/CLIP.git@a1d071733d7111c9c014f024669f959182114e33
+clip @ git+https://github.com/openai/CLIP.git
 contourpy==1.1.0
 cycler==0.11.0
 faiss-cpu==1.7.4
